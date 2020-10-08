@@ -1,0 +1,2 @@
+# Discord-Bot
+A general purpose bot that uses discord.py library to give the following information to the user. It can provide real time weather, air pollution, crypto currency stats and forex exchange rates. It can set news sources for a user’s newsletter and send the user its newsletter along with a sharable link. This bot has commands to keep the user entertained where they can ask the bot to send them memes, facts, quotes, etc
