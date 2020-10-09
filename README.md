@@ -4,12 +4,14 @@ A general purpose bot that uses discord.py library to give the following informa
 
 It provides:
 
-- real time weather
+- Real time weather
 - AQI of a place
 - AQI stations around the place
 - Crypto currency stats
 - Forex exchange rates
 - Currency Converter
+- Details about next SpaceX launch
+- upcoming ISS passes for a particular location
 - Random Facts, Memes, Quotes
 - Shareable Newsletter
 
